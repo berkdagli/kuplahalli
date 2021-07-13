@@ -6,7 +6,7 @@ import sys
 
 # Gmail details
 email_address = "kuplavalvonta@lohjanpallo.fi"
-email_password = "Lub12454"
+email_password = ""
 
 # Recipent
 to_address = (
